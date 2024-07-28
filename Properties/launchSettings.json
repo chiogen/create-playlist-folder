@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CreatePlaylistFolder": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Chiogen\\Music\\Playlists\\Favourite Songs.m3u\"\r\nD:\\Playback"
+    }
+  }
+}
